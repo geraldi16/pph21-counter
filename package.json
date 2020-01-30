@@ -1,0 +1,9 @@
+{
+  "name": "simple-pph-count",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
